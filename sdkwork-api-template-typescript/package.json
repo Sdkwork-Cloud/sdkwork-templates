@@ -29,6 +29,6 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "sdkwork-commons-typescript": "git+https://gitee.com/zowalk/sdkwork-commons-typescript.git"
+    "sdkwork-commons-typescript": "^1.0.0"
   }
 }
