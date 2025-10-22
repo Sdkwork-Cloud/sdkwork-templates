@@ -30,7 +30,7 @@
   "dependencies": { 
      "${apiProjectName}": "file:../${apiProjectName}",
      "${managerProjectName}": "file:../${managerProjectName}",
-     "sdkwork-commons-typescript": "^1.0.0"
+     "sdkwork-commons-typescript": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",

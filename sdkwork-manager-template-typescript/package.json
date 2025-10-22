@@ -29,7 +29,7 @@
   "license": "MIT",
   "dependencies": { 
      "${apiProjectName}": "file:../${apiProjectName}",
-     "sdkwork-commons-typescript": "^1.0.0"
+     "sdkwork-commons-typescript": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
